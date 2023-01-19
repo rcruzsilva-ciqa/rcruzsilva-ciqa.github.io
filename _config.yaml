@@ -7,7 +7,7 @@ description: Sitio web del laboratorio de Rodolfo en el CIQA, nanocompuestos, po
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: ""
+baseurl: 
 
 # site social media and other links
 links:
