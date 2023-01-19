@@ -1,17 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: RCS Lab
+subtitle: Laboratorio de polímeros de Rodolfo Cruz-Silva en CIQA
+description: Sitio web del laboratorio de Rodolfo en el CIQA, nanocompuestos, polimeros para tratamiento de agua, y dinamica molecular.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
+  email: rcruzsilva.ciqa@gmail.com
+  google-scholar: Rodolfo Cruz-Silva
   github: your-lab
   twitter: YourLabHandle
   instagram: YourLabHandle
