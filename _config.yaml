@@ -12,11 +12,11 @@ baseurl:
 # site social media and other links
 links:
   email: rcruzsilva.ciqa@gmail.com
-  google-scholar: Rodolfo Cruz-Silva
-  github: your-lab
+  google-scholar: https://scholar.google.com.mx/citations?user=uBnab5IAAAAJ&hl=es
+  github: https://github.com/rcruzsilva-ciqa
   twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  instagram: https://www.instagram.com/rurycruz/?hl=es
+  youtube: https://www.youtube.com/@rcruzsilvarcen
 
 ### advanced settings
 
