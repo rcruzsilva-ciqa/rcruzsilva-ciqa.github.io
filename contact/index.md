@@ -54,14 +54,14 @@ Saltillo Coah. Mexico
 {%
   include figure.html
   image="images/ciqa.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="CIQA"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="Departamento de procesos de transformación"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
