@@ -12,7 +12,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 {%
   include link.html
-  type="Correo electrónico:"
+  type="email"
   icon=""
   text="rcruzsilva.ciqa@gmail.com"
   tooltip=""
@@ -21,7 +21,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 %}
 {%
   include link.html
-  type="Teléfono"
+  type="phone"
   icon=""
   text="(844) 438-9830"
   tooltip=""
