@@ -41,22 +41,24 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Join
+## Únete
 
-#### Post Dogtoral Researcher
+#### Estamos buscando estudiantes de prácticas, licenciatura, maestría y doctorado
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Aquí puedes encontrar todo lo necesario para aprender de polímeros y desarrollar tu tema de tesis. Tengo experiencia trabajando en varios temas.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+Requisitos:
+- Tiempo disponible.
+- Gusto por la ciencia.
+- Deseo de adquirir nuevas habilidades analíticas.
+- Dispuesto a recibir retroalimentación.
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
 
-## Funding
+## Temas de interés
 
 Our work is made possible by funding from several organizations.
 {:.center}
@@ -65,27 +67,27 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
+  image1="images/galeriaA.jpg"
   link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  tooltip1="Dinámica molecular"
 
-  image2="images/photo.jpg"
+  image2="images/galeriaB.jpg"
   link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  tooltip2="Membranas poliméricas"
 
-  image3="images/photo.jpg"
+  image3="images/galeriaC.jpg"
   link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  tooltip3="Síntesis enzimática"
 
-  image4="images/photo.jpg"
+  image4="images/galeriaD.jpg"
   link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  tooltip4="Compósitos"
 
-  image5="images/photo.jpg"
+  image5="images/galeriaE.jpg"
   link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  tooltip5="Polímeros conductores"
 
-  image6="images/photo.jpg"
+  image6="images/GaleriaF.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  tooltip6="Nanomateriales de carbono"
 %}
