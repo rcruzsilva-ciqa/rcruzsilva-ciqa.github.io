@@ -2,7 +2,7 @@
 name: Rodolfo Cruz-Silva
 image: images/rodolfo.jpg
 description: Investigador Titular C
-role: Investigador principal
+role: pi
 aliases:
   - Rodolfo Cruz Silva
   - Rodolfo Cruz-Silva
