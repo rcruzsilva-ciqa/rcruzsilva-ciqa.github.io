@@ -67,23 +67,23 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/galeriaA.jpg"
+  image1="images/GaleriaA.jpg"
   link1="https://nasa.gov/"
   tooltip1="Dinámica molecular"
 
-  image2="images/galeriaB.jpg"
+  image2="images/GaleriaB.jpg"
   link2="https://nasa.gov/"
   tooltip2="Membranas poliméricas"
 
-  image3="images/galeriaC.jpg"
+  image3="images/GaleriaC.jpg"
   link3="https://nasa.gov/"
   tooltip3="Síntesis enzimática"
 
-  image4="images/galeriaD.jpg"
+  image4="images/GaleriaD.jpg"
   link4="https://nasa.gov/"
   tooltip4="Compósitos"
 
-  image5="images/galeriaE.jpg"
+  image5="images/GaleriaE.jpg"
   link5="https://nasa.gov/"
   tooltip5="Polímeros conductores"
 
