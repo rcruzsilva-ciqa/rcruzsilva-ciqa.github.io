@@ -1,18 +1,17 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
-role: pi
+name: Rodolfo Cruz-Silva
+image: images/rodolfo.jpg
+description: Investigador Titular C
+role: Investigador principal
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - Rodolfo Cruz Silva
+  - Rodolfo Cruz-Silva
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 0000-0002-6120-9524
+  email: rodolfo.cruz@ciqa.edu.mx
+  twitter: ciqa_mx
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Ingeniero químico de la Universidad Autónoma de Coahuila (1998)
+Doctor en polímeros por el Centro de Investigación en Química Aplicada (2004)
+Pasatiempos: Senderismo y fotografía.
