@@ -23,18 +23,13 @@ Nuestro grupo de trabajo inició en Octubre del 2022, estamos iniciando por lo q
   component="portrait"
   filters="role: phd"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
+
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
 “You teach me, I forget. You show me, I remember. You involve me, I understand.”
-― Edward O. Wilson 
+_― Edward O. Wilson_
 
 {% include section.html %}
 
