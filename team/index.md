@@ -79,7 +79,7 @@ Our work is made possible by funding from several organizations.
   link3="https://nasa.gov/"
   tooltip3="Síntesis enzimática"
 
-  image4="images/GaleriaD.jpg"
+  image4="images/GaleriaD.gif"
   link4="https://nasa.gov/"
   tooltip4="Compósitos"
 
