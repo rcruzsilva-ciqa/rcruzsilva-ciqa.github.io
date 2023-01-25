@@ -67,7 +67,7 @@ Si quieres realizar tesis en estas líneas de investigación acércate a platica
   include gallery.html
   style="square"
 
-  image1="images/GaleriaA.jpg"
+  image1="images/GaleriaD.gif"
   link1="https://nasa.gov/"
   tooltip1="Dinámica molecular"
 
