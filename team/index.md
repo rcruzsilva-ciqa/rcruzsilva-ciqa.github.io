@@ -81,13 +81,13 @@ Our work is made possible by funding from several organizations.
 
   image4="images/GaleriaD.gif"
   link4="https://nasa.gov/"
-  tooltip4="Compósitos"
+  tooltip4="Polímeros conductores"
 
-  image5="images/GaleriaE.jpg"
+  image5="images/GaleriaE.mp4"
   link5="https://nasa.gov/"
-  tooltip5="Polímeros conductores"
+  tooltip5="Compósitos inteligentes"
 
   image6="images/GaleriaF.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Nanomateriales de carbono"
+  tooltip6="Nanocompósitos de carbono"
 %}
