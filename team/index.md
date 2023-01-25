@@ -71,7 +71,7 @@ Si quieres realizar tesis en estas líneas de investigación acércate a platica
   link1="https://nasa.gov/"
   tooltip1="Dinámica molecular"
 
-  image2="images/GaleriaB.jpg"
+  image2="images/GalerieB.jpg"
   link2="https://nasa.gov/"
   tooltip2="Membranas poliméricas"
 
@@ -79,7 +79,7 @@ Si quieres realizar tesis en estas líneas de investigación acércate a platica
   link3="https://nasa.gov/"
   tooltip3="Síntesis enzimática"
 
-  image4="images/GaleriaD.gif"
+  image4="images/GaleryD.gif"
   link4="https://nasa.gov/"
   tooltip4="Polímeros conductores"
 
