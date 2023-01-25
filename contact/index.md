@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+El CIQA se encuentra al norte de la ciudad de Saltillo, accesible solamente por el blvd. José Musa de León.
+Puedes encontrarme en la oficina C-19 del departamento de procesos de transformacion.
 
 {%
   include link.html
@@ -25,7 +25,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="(844) 438-9830"
   tooltip=""
-  link="+1-555-867-5309"
+  link="844-438-9830"
   style="button"
 %}
 {%
@@ -60,7 +60,7 @@ Saltillo Coah. Mexico
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/ciqapuerta.jpg"
   caption="Departamento de procesos de transformación"
 %}
 {% endcapture %}
