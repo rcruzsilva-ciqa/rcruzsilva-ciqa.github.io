@@ -1,16 +1,13 @@
 ---
-title: Team
+title: Equipo
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Nuestro equipo de trabajo
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Equipo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nuestro grupo de trabajo inició en Octubre del 2022, estamos iniciando por lo que aún somos pocos pero con mucho ánimo.
 
 {% include section.html %}
 
@@ -36,8 +33,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+“You teach me, I forget. You show me, I remember. You involve me, I understand.”
+― Edward O. Wilson 
 
 {% include section.html %}
 
@@ -53,7 +50,7 @@ Requisitos:
 - Deseo de adquirir nuevas habilidades analíticas.
 - Dispuesto a recibir retroalimentación.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="https://google.com/" text="Contáctanos" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
