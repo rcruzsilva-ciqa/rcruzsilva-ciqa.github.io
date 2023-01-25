@@ -60,7 +60,7 @@ Requisitos:
 
 ## Temas de interés
 
-Our work is made possible by funding from several organizations.
+Si quieres realizar tesis en estas líneas de investigación acércate a platicar.
 {:.center}
 
 {%
