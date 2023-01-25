@@ -2,9 +2,7 @@
   image: "images/GaleriaA.jpg"
   date: 2019-5-10
   extra-links:
-    - type: website
+    - type: manubot
       link: https://pubs.acs.org/doi/10.1021/acs.est.8b07203
   tags:
     - membranes
-    - water
-    - fouling
