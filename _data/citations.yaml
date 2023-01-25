@@ -1,19 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: 10.1126/science.abh2283
+  title: Reversible fusion-fission fibers
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Rodolfo Cruz-Silva
+  - "Ana Laura El\xEDas"
+  publisher: Science
+  date: '2019-05-10'
+  link: https://doi.org/grpnwq
+  image: images/logotipoCUBE.jpg
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - type: website
+    link: https://www.science.org/doi/10.1126/science.abh2283
   tags:
-  - knowledge graphs
-  - second
-  _cache: 3e3e07e6a10bab2e92a0cab2a9ab41976e0061e22e4107a42748dc61a46c8423
+  - graphene
+  - fiber
+  - self-assembly
+  - opinion
+  _cache: 40f7fc2cf1c2a7fb3b2f193c1e7ca3e8e67d204caf0246799afc9404f1270545
