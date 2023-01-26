@@ -69,7 +69,7 @@ Si quieres realizar tesis en estas líneas de investigación acércate a platica
 
   image3="images/GaleriaC.jpg"
   link3="https://nasa.gov/"
-  tooltip3="Síntesis enzimática"
+  tooltip3="Síntesis enzimática de polímeros"
 
   image4="images/GaleriaD.jpg"
   link4="https://nasa.gov/"
@@ -81,5 +81,5 @@ Si quieres realizar tesis en estas líneas de investigación acércate a platica
 
   image6="images/GaleriaF.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Nanocompósitos de carbono"
+  tooltip6="Nanomateriales de carbono"
 %}
