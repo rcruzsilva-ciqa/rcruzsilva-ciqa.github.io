@@ -7,9 +7,9 @@
   - Rodolfo Cruz-Silva
   - "Ana Laura El\xEDas"
   publisher: Science
-  date: '2019-05-10'
+  date: '2021-03-01'
   link: https://doi.org/grpnwq
-  image: images/logotipoCUBE.jpg
+  image: images/papers/paper1.jpg
   extra-links:
   - type: website
     link: https://www.science.org/doi/10.1126/science.abh2283
@@ -18,4 +18,249 @@
   - fiber
   - self-assembly
   - opinion
-  _cache: 40f7fc2cf1c2a7fb3b2f193c1e7ca3e8e67d204caf0246799afc9404f1270545
+  _cache: 038c3db4108e1967c85b539f8de4efec6ff7b012fb55d069eafb3ab6b4aec1e7
+- id: 10.1039/d0nr02915g
+  title: 'Nanocomposite desalination membranes made of aromatic polyamide with cellulose
+    nanofibers: synthesis, performance, and water diffusion study'
+  authors:
+  - Rodolfo Cruz-Silva
+  - Kazuo Izu
+  - Jun Maeda
+  - Shigeru Saito
+  - Aaron Morelos-Gomez
+  - Celia Aguilar
+  - Yoshihiro Takizawa
+  - Ayaka Yamanaka
+  - Syogo Tejiima
+  - Kazunori Fujisawa
+  - Kenji Takeuchi
+  - Takuya Hayashi
+  - Toru Noguchi
+  - Akira Isogai
+  - Morinobu Endo
+  publisher: Nanoscale
+  date: '2020-10-04'
+  link: https://doi.org/grpn5p
+  image: images/papers/paper2.jpg
+  extra-links:
+  - type: website
+    link: https://pubs.rsc.org/en/content/articlelanding/2020/nr/d0nr02915g
+  tags:
+  - nanocellulose
+  - desalination
+  - membrane
+  - molecular dynamics
+  - polyamide
+  _cache: eea3a474ef8860e01bbfda687cde62726d2357f0dff686430d0b3db122d5b6a1
+- id: 10.1021/acs.est.8b07203
+  title: New Insights in the Natural Organic Matter Fouling Mechanism of Polyamide
+    and Nanocomposite Multiwalled Carbon Nanotubes-Polyamide Membranes
+  authors:
+  - Rodolfo Cruz-Silva
+  - Yoshihiro Takizawa
+  - Auppatham Nakaruk
+  - Michio Katouda
+  - Ayaka Yamanaka
+  - Josue Ortiz-Medina
+  - Aaron Morelos-Gomez
+  - Syogo Tejima
+  - Michiko Obata
+  - Kenji Takeuchi
+  - Toru Noguchi
+  - Takuya Hayashi
+  - Mauricio Terrones
+  - Morinobu Endo
+  publisher: Environmental Science &amp; Technology
+  date: '2019-06-04'
+  link: https://doi.org/grpm8r
+  image: images/papers/paper3.jpg
+  extra-links:
+  - type: website
+    link: https://pubs.acs.org/doi/10.1021/acs.est.8b07203
+  tags:
+  - membrane
+  - fouling
+  - molecular dynamics
+  - humic acid
+  - alginate
+  _cache: b96f024bcffacd89506de7b1e59fe52310bfce3bc6f5bf58b829e98c4da704bf
+- id: 10.1021/acsomega.8b00601
+  title: Effective Antiscaling Performance of Reverse-Osmosis Membranes Made of Carbon
+    Nanotubes and Polyamide Nanocomposites
+  authors:
+  - Yoshihiro Takizawa
+  - Shigeki Inukai
+  - Takumi Araki
+  - Rodolfo Cruz-Silva
+  - Josue Ortiz-Medina
+  - Aaron Morelos-Gomez
+  - Syogo Tejima
+  - Ayaka Yamanaka
+  - Michiko Obata
+  - Auppatham Nakaruk
+  - Kenji Takeuchi
+  - Takuya Hayashi
+  - Mauricio Terrones
+  - Morinobu Endo
+  publisher: ACS Omega
+  date: '2018-06-01'
+  link: https://doi.org/gdv9w6
+  image: images/papers/paper4.jpg
+  extra-links:
+  - type: website
+    link: https://pubs.acs.org/doi/10.1021/acs.est.8b07203
+  tags:
+  - membrane
+  - fouling
+  - molecular dynamics
+  - calcium carbonate
+  - softening
+  _cache: d937d44c4eb13e8331377021c275fa4120c90adbc2f5181661a4dce347b3fbd5
+- id: 10.1103/PhysRevApplied.9.024018
+  title: 'Water Diffusion Mechanism in Carbon Nanotube and Polyamide Nanocomposite
+    Reverse Osmosis Membranes: A Possible Percolation-Hopping Mechanism'
+  authors:
+  - Takumi Araki
+  - Rodolfo Cruz-Silva
+  - Syogo Tejima
+  - Josue Ortiz-Medina
+  - Aaron Morelos-Gomez
+  - Kenji Takeuchi
+  - Takuya Hayashi
+  - Mauricio Terrones
+  - Morinobu Endo
+  publisher: Physical Review Applied
+  date: '2018-02-20'
+  link: https://doi.org/gc4br8
+  image: images/papers/paper5.jpg
+  extra-links:
+  - type: website
+    link: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.9.024018
+  tags:
+  - membrane
+  - diffusion
+  - molecular dynamics
+  - polyamide
+  _cache: c68b7ed51f9b02ed1685a9496099e945c022dc0d7e3f75a46507c36b14810809
+- id: 10.1016/j.carbon.2017.09.082
+  title: 'Two-dimensional and three-dimensional hybrid assemblies based on graphene
+    oxide and other layered structures: A carbon science perspective'
+  authors:
+  - Cynthia Guerrero-Bermea
+  - Lakshmy Pulickal Rajukumar
+  - Archi Dasgupta
+  - Yu Lei
+  - Yoshio Hashimoto
+  - Selene Sepulveda-Guzman
+  - Rodolfo Cruz-Silva
+  - Morinobu Endo
+  - Mauricio Terrones
+  publisher: Carbon
+  date: '2017-12-01'
+  link: https://doi.org/gchf2x
+  image: images/papers/paper6.jpg
+  extra-links:
+  - type: website
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0008622317309338
+  tags:
+  - review
+  - 2D materials
+  - graphene oxide
+  - chalcogenides
+  _cache: ef91732be2d10693e45b76a2678a45f01c2b1890b56b118ff35ef5ce4d9dd868
+- id: 10.1007/s10971-016-4210-1
+  title: Mesoporous titania nanofibers by solution blow spinning
+  authors:
+  - Manuel Gonzalez-Abrego
+  - Araceli Hernandez-Granados
+  - Cynthia Guerrero-Bermea
+  - Azael Martinez de la Cruz
+  - Domingo Garcia-Gutierrez
+  - Selene Sepulveda-Guzman
+  - Rodolfo Cruz-Silva
+  publisher: Journal of Sol-Gel Science and Technology
+  date: '2016-05-02'
+  link: https://doi.org/f9vwzz
+  image: images/papers/paper7.jpg
+  extra-links:
+  - type: website
+    link: https://link.springer.com/article/10.1007/s10971-016-4210-1
+  tags:
+  - nanofibers
+  - titania
+  - blow-spinning
+  _cache: 6ea7bee31359405bd9764f8aa075fb84dd9c57de38939fdcd02294190746af08
+- id: 10.1098/rsta.2015.0327
+  title: 'Fullerene and nanotube growth: new insights using first principles and molecular
+    dynamics'
+  authors:
+  - Rodolfo Cruz-Silva
+  - Takumi Araki
+  - Takuya Hayashi
+  - Humberto Terrones
+  - Mauricio Terrones
+  - Morinobu Endo
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2016-09-13'
+  link: https://doi.org/grpn5r
+  image: images/papers/paper8.jpg
+  extra-links:
+  - type: website
+    link: https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0327
+  tags:
+  - fullerene
+  - C60
+  - DFT
+  - Nudged Elastic Band
+  - molecular dynamics
+  _cache: 8b9083529597a1d74a336e186083f6c6e9b1d2864be6680bf6320c7b687a5c08
+- id: 10.1515/ntrev-2015-0041
+  title: Graphene oxide films, fibers, and membranes
+  authors:
+  - Rodolfo Cruz-Silva
+  - Morinobu Endo
+  - Mauricio Terrones
+  publisher: Nanotechnology Reviews
+  date: '2016-08-15'
+  link: https://doi.org/grpn5s
+  image: images/papers/paper9.jpg
+  extra-links:
+  - type: website
+    link: https://www.degruyter.com/document/doi/10.1515/ntrev-2015-0041/html?lang=en
+  tags:
+  - review
+  - graphite oxide
+  - membranes
+  - films
+  - fibers
+  _cache: 07734dd1085e13f28f4c5c1d52c074243d62e6927b1cd98316cc7b3b43b1db5a
+- id: 10.1021/nn501098d
+  title: Super-stretchable Graphene Oxide Macroscopic Fibers with Outstanding Knotability
+    Fabricated by Dry Film Scrolling
+  authors:
+  - Rodolfo Cruz-Silva
+  - Aaron Morelos-Gomez
+  - Hyung-ick Kim
+  - Hong-kyu Jang
+  - Ferdinando Tristan
+  - Sofia Vega-Diaz
+  - Lakshmy P. Rajukumar
+  - "Ana Laura El\xEDas"
+  - Nestor Perea-Lopez
+  - Jonghwan Suhr
+  - Morinobu Endo
+  - Mauricio Terrones
+  publisher: ACS Nano
+  date: '2016-09-13'
+  link: https://doi.org/f58jn8
+  image: images/papers/paper10.jpg
+  extra-links:
+  - type: website
+    link: https://pubs.acs.org/doi/10.1021/nn501098d
+  tags:
+  - graphite oxide
+  - films
+  - bar coating
+  - fibers
+  _cache: cc34a6e9e634e9b40180e022f74ab761ab3cc104ebf331a2578efc840f781658
