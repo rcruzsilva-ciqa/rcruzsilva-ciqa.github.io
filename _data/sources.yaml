@@ -1,6 +1,6 @@
 - id: 10.1126/science.abh2283
-  image: "images/logotipoCUBE.jpg"
-  date: 2019-5-10
+  image: "images/papers/paper1.jpg"
+  date: 2021-3-1
   extra-links:
     - type: website
       link: https://www.science.org/doi/10.1126/science.abh2283
@@ -9,3 +9,117 @@
     - fiber
     - self-assembly
     - opinion
+
+- id: 10.1039/d0nr02915g
+  image: "images/papers/paper2.jpg"
+  date: 2020-10-4
+  extra-links:
+    - type: website
+      link: https://pubs.rsc.org/en/content/articlelanding/2020/nr/d0nr02915g
+  tags:
+    - nanocellulose
+    - desalination
+    - membrane
+    - molecular dynamics
+    - polyamide
+    
+- id: 10.1021/acs.est.8b07203
+  image: "images/papers/paper3.jpg"
+  date: 2019-6-4
+  extra-links:
+    - type: website
+      link: https://pubs.acs.org/doi/10.1021/acs.est.8b07203
+  tags:
+    - membrane
+    - fouling
+    - molecular dynamics
+    - humic acid
+    - alginate
+    
+- id: 10.1021/acsomega.8b00601
+  image: "images/papers/paper4.jpg"
+  date: 2018-6-1
+  extra-links:
+    - type: website
+      link: https://pubs.acs.org/doi/10.1021/acs.est.8b07203
+  tags:
+    - membrane
+    - fouling
+    - molecular dynamics
+    - calcium carbonate
+    - softening
+    
+- id: 10.1103/PhysRevApplied.9.024018
+  image: "images/papers/paper5.jpg"
+  date: 2018-2-20
+  extra-links:
+    - type: website
+      link: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.9.024018
+  tags:
+    - membrane
+    - diffusion
+    - molecular dynamics
+    - polyamide
+    
+- id: 10.1016/j.carbon.2017.09.082
+  image: "images/papers/paper6.jpg"
+  date: 2017-12-1
+  extra-links:
+    - type: website
+      link: https://www.sciencedirect.com/science/article/abs/pii/S0008622317309338
+  tags:
+    - review
+    - 2D materials
+    - graphene oxide
+    - chalcogenides
+    
+- id: 10.1007/s10971-016-4210-1
+  image: "images/papers/paper7.jpg"
+  date: 2016-5-2
+  extra-links:
+    - type: website
+      link: https://link.springer.com/article/10.1007/s10971-016-4210-1
+  tags:
+    - nanofibers
+    - titania
+    - blow-spinning
+    
+
+- id: 10.1098/rsta.2015.0327
+  image: "images/papers/paper8.jpg"
+  date: 2016-9-13
+  extra-links:
+    - type: website
+      link: https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0327
+  tags:
+    - fullerene
+    - C60
+    - DFT
+    - Nudged Elastic Band
+    - molecular dynamics
+    
+- id: 10.1515/ntrev-2015-0041
+  image: "images/papers/paper9.jpg"
+  date: 2016-8-15
+  extra-links:
+    - type: website
+      link: https://www.degruyter.com/document/doi/10.1515/ntrev-2015-0041/html?lang=en
+  tags:
+    - review
+    - graphite oxide
+    - membranes
+    - films
+    - fibers
+
+- id: 10.1021/nn501098d
+  image: "images/papers/paper10.jpg"
+  date: 2016-9-13
+  extra-links:
+    - type: website
+      link: https://pubs.acs.org/doi/10.1021/nn501098d
+  tags:
+    - graphite oxide
+    - films
+    - bar coating
+    - fibers
+    
